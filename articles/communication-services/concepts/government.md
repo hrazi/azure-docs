@@ -6,6 +6,15 @@ Azure Communication Services can be used within [Azure Government](https://azure
 - Your resource’s customer content is stored within the United States.
 - Access to your organization's customer content is restricted to screened Microsoft personnel. 
 - Complies with certifications and accreditations that are required for US Public Sector customers, specifically those offered to Office 365 Government - GCC High offering.
+  
+# General Availability and Future Feature Releases
+Azure Communication Services for US Government is scheduled to reach General Availability (GA) in 2025. Initially, the service will focus on core capabilities, providing government customers with a secure, compliant communication solution.
+
+Additional advanced features such as Call Logs, Call Recording, Transcriptions, Live Captions and Email integration
+will be introduced in a later release in 2025, following GA. Azure Communication Services is committed to releasing these features as part of its roadmap and maintaining feature parity with Azure Communication Services Commercial within 6 months of each feature becoming available in the commercial cloud.
+
+# FedRAMP High Accreditation and Compliance
+Azure Communication Services in Azure Government is currently In Process for FedRAMP High accreditation as part of the Microsoft 365 GCC-High service offering. You can find more information about the Office 365 Government – GCC High offering for US Government customers at [Office 365 Government plans](https://products.office.com/government/compare-office-365-government-plans). Please see [eligibility requirements](https://azure.microsoft.com/global-infrastructure/government/how-to-buy/) for Azure Government. 
 
 You can find more information about the Office 365 Government – GCC High offering for US Government customers at [Office 365 Government plans](https://products.office.com/government/compare-office-365-government-plans). Please see [eligibility requirements](https://azure.microsoft.com/en-us/global-infrastructure/government/how-to-buy/) for Azure Government. 
 
